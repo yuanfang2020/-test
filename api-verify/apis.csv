@@ -1,0 +1,3 @@
+name,path,body_file
+login,/api/login,payloads/login.json
+queryOrder,/api/order/query,payloads/query_order.json
